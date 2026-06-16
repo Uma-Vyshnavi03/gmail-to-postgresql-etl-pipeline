@@ -48,8 +48,7 @@ PostgreSQL Insert Node
 ↓
 Data loaded into database ✅
 
-> 📸 Workflow screenshot will be added once 
-> Supabase project is resumed
+![n8n Workflow](Workflow.png)
 
 ---
 
